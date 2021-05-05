@@ -1,0 +1,24 @@
+/* .rst__rowWrapper:hover a  {
+  
+    visibility: visible;
+} */
+/* .hover-btn{
+    visibility: hidden!important;
+} */
+/* .title-button a{
+    visibility: hidden;
+} */
+/* .rst__rowLabel:hover a{
+    visibility: visible;
+} */
+
+/* .rst__toolbarButton a {
+    visibility: hidden!important;
+} */
+
+.rst__toolbarButton a {
+    visibility: hidden !important;
+}
+.rst__rowContents:hover a {
+    visibility: visible !important;
+}
